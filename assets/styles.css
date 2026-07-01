@@ -13,7 +13,7 @@
   --dark-3: #1e3d2d;
   --accent: #4b5159;     /* mid grey accent */
   --accent-soft: #c9ced5;/* light grey text on dark backgrounds */
-  --bg: #f4f5f6;         /* page background */
+  --bg: #1e2b13;         /* page background */
   --paper: #ffffff;
   --ink: #1f2226;
   --muted: #6b7280;
@@ -88,10 +88,10 @@ a { color: inherit; }
 .nav-links a:hover { color: #fff; }
 .nav-banner {
   display: block;
-  width: 468px;
+  width: 400px;
   height: 60px;
   max-width: 100%;
-  border-radius: 6px;
+  border-radius: 5px;
 }
 
 /* ---------- Meet Bob ---------- */
