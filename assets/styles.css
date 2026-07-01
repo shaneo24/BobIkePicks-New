@@ -13,7 +13,7 @@
   --dark-3: #1e3d2d;
   --accent: #4b5159;     /* mid grey accent */
   --accent-soft: #c9ced5;/* light grey text on dark backgrounds */
-  --bg: #1e2b13;         /* page background */
+  --bg: #15240c;         /* page background */
   --paper: #ffffff;
   --ink: #1f2226;
   --muted: #6b7280;
@@ -109,7 +109,7 @@ a { color: inherit; }
 /* Meet Bob section: same dark-green background as the hero */
 #record {
   background:
-    linear-gradient(180deg, rgba(15,36,26,.95), rgba(15,36,26,.95)),
+    linear-gradient(180deg, rgba(21,36,12,.95), rgba(21,36,12,.95)),
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3Cpath d='M0 39h40M39 0v40' stroke='%23ffffff10'/%3E%3C/svg%3E");
   border-top: 1px solid rgba(255, 255, 255, 0.3);
   border-bottom: none;
@@ -122,7 +122,7 @@ a { color: inherit; }
 /* ---------- Hero ---------- */
 .hero {
   background:
-    linear-gradient(180deg, rgba(15,36,26,.95), rgba(15,36,26,.95)),
+    linear-gradient(180deg, rgba(21,36,12,.95), rgba(21,36,12,.95)),
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3Cpath d='M0 39h40M39 0v40' stroke='%23ffffff10'/%3E%3C/svg%3E");
   color: #fff;
   padding: 56px 0 40px;
