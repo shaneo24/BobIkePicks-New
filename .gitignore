@@ -1,10 +1,1 @@
 .claude/
-
-# Secrets — never commit
-.env
-.env.local
-.env.*.local
-
-# Node / Vercel
-node_modules/
-.vercel/
